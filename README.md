@@ -9,7 +9,8 @@ This project analyzes Instagram reach data to derive insights into the engagemen
 - **Word Clouds**: Generates word clouds from post captions and hashtags to highlight the most frequently used words and hashtags.
 - **Scatter Plots**: Analyzes the relationship between impressions and engagement metrics (likes, comments, shares, and saves) with scatter plots.
 - **Conversion Rate Analysis**: Calculates the conversion rate from profile visits to follows and visualizes this relationship.
-- **Reach Prediction Model**: Uses a regression model to predict the number of impressions based on engagement metrics.
+- **Prediction Model**: Builds and evaluates a regression model to predict impressions based on engagement metrics, achieving an accuracy of 91% using `PassiveAggressiveRegressor`.
+
 
 ## Installation
 
